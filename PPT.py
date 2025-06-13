@@ -6,7 +6,7 @@ from random import choice
 
 
 
-mov = ["piedra", "papel", "tijera"]       
+mov = ["piedra", "papel", "tijera"]
 
 Usuario =  -1  
 
